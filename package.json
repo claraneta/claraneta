@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/claraneta/claraneta/issues"
   },
-  "homepage": "https://github.com/claraneta/claraneta#readme"
+  "homepage": "https://github.com/claraneta/claraneta#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
