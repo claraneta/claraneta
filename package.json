@@ -1,0 +1,19 @@
+{
+  "name": "claraneta",
+  "version": "1.0.0",
+  "description": "Final Web Requirement",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claraneta/claraneta.git"
+  },
+  "author": "Cris Laurence Araneta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claraneta/claraneta/issues"
+  },
+  "homepage": "https://github.com/claraneta/claraneta#readme"
+}
